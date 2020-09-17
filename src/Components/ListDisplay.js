@@ -1,4 +1,6 @@
-import React, {Component} from 'react';
+//Class Component
+
+import React, { Component } from 'react';
 
 class ListDisplay extends Component {
     render(){
